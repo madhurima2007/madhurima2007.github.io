@@ -34,7 +34,7 @@ Settings → Pages → Deploy from Branch → main → root
 
 ## Live Demo
 
-https://username.github.io
+https://madhurima2007.github.io
 
 ## Learning Outcomes
 
